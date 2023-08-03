@@ -1,0 +1,27 @@
+{
+  "name": "res-navbar",
+  "version": "1.0.0",
+  "description": "A ready to use responsive navbar which transforms from a full-blown navbar, to a hamburger menu depending on the screen size",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mishael-codes/res-navbar.git"
+  },
+  "keywords": [
+    "responsive",
+    "navbar",
+    "menu",
+    "hamburger-menu",
+    "hamburger",
+    "ham"
+  ],
+  "author": "mishael-codes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mishael-codes/res-navbar/issues"
+  },
+  "homepage": "https://github.com/mishael-codes/res-navbar#readme"
+}
